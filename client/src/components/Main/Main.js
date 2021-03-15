@@ -2,7 +2,7 @@ import './Main.css';
 
 const Main = () => {
     return (
-        <main classname="main-container">
+        <main className="main-container">
             <h1>Sooooooome Heading</h1>
             <p>some posts</p>
 

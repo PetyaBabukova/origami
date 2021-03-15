@@ -19,6 +19,7 @@ const Header = () => {
           <li className="listItem"><a href="#">Going to 10</a></li>
           <li className="listItem"><a href="#">Going to 11</a></li> */}
 
+
         <NavigationItem>{<img src="white-origami-bird.png" alt="white-origami" />}</NavigationItem>
         <NavigationItem>Going to 1</NavigationItem>
         <NavigationItem>Going to 2</NavigationItem>
